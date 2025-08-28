@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello there!
 
-<!--
-**jovsxf/jovsxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software, apaixonada por desenvolvimento front-end e back-end.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Habilidades
+
+- **Linguagens:** JavaScript, Python, Java, TypeScript, C e C++
+- **Front-end:** React, HTML, CSS, Tailwind  
+- **Back-end:** Node.js  
+- **Banco de Dados:** MySQL, MongoDB, Neo4J  
+- **Ferramentas:** Docker, Git, GitHub, VS Code, Postman, Cypress
+
+---
+
+## 📚 Aprendizado e Experiência
+
+- Matérias importantes do curso: Programação Orientada a Objetos, Banco de Dados, Sistemas Operacionais, Arquitetura de Software, Qualidade de Software, DevOps, Linguagens de Programação e Compiladores, Paradigmas da Programação e Inteligência Computacional.  
+- Atualmente explorando DevOps, CI/CD com Docker e Produto e Engenharia de Software.  
+- Experiência prática em projetos acadêmicos e pessoais de front-end e back-end.
+
+---
+
+## 🎯 Um Pouco Sobre Mim
+
+Quando não estou programando, você provavelmente me encontrará na minha roça cuidando dos meus cabritos, até porque equilibrio é tudo. Gosto muito de ler, principalmente livros clássicos de diferentes países. Sou fã de cafeterias, plantas e da Taylor Swift rs.
+Amo aprender e estou empre em busca de desafios que me façam crescer!
+
+---
+
