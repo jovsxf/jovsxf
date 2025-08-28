@@ -27,5 +27,3 @@ Sou estudante de Engenharia de Software, apaixonada por desenvolvimento front-en
 Quando não estou programando, você provavelmente me encontrará na minha roça cuidando dos meus cabritos, até porque equilibrio é tudo. Gosto muito de ler, principalmente livros clássicos de diferentes países. Sou fã de cafeterias, plantas e da Taylor Swift rs.
 Amo aprender e estou empre em busca de desafios que me façam crescer!
 
----
-
