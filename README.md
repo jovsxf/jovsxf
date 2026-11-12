@@ -86,7 +86,7 @@ Estou sempre aberta a trocar experiências, conhecer projetos interessantes e ap
 
 ### 💌 Vamos nos conectar?
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/](https://www.linkedin.com/in/giovana-fonseca-0a2768182/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-fonseca-0a2768182/)
 [![GitHub](https://img.shields.io/badge/GitHub-jovsxf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jovsxf)
 
 ---
@@ -94,3 +94,4 @@ Estou sempre aberta a trocar experiências, conhecer projetos interessantes e ap
 <p align="center">
   <i>"Great things are built one commit at a time."</i> ✨
 </p>
+
