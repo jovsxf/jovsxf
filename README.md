@@ -65,12 +65,12 @@ Tecnologias e ferramentas com as quais já trabalhei ou estou explorando:
 
 ---
 
-
 ## 📊 GitHub em números
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jovsxf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jovsxf&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=jovsxf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jovsxf&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
