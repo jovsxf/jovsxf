@@ -1,4 +1,4 @@
-# ✨ Hello! Eu sou Giovana Fonseca
+# Hello! Eu sou Giovana Fonseca
 
 ### 💻 Software Engineering Student | Research & Development | Technology Enthusiast
 
